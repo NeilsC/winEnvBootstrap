@@ -1,5 +1,14 @@
-choco install conemu --confirm
-
-choco install git.install --confirm
-
-choco install 7zip.install --confirm
+choco install conemu `
+	git.install `
+	7zip.install `
+	dropbox `
+	slack `
+	hyper `
+	firefox `
+	spotify `
+	calibre ` 
+	steam `
+	deluge `
+	openoffice `
+	vlc `
+	--confirm	
